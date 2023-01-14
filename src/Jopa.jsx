@@ -5,7 +5,7 @@ function Jopa() {
     return (
         <div className="centersosis"> 
             <p className="sosiska">sosis</p>
-            <h2 className="popka">xuy</h2>
+            <h2 className="popka">xuychik</h2>
         </div>
     )
 }
